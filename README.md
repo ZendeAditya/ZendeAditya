@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Zende</h1>
+<p align="center">aspiring software developer</p>
 <h3 align="center">Architecting Tomorrow's Solutions Today 🌐 | Full Stack Sorcerer 🚀 | Crafting Code Magic from the Heart of India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zendeaditya&label=Profile%20views&color=0e75b6&style=flat" alt="zendeaditya" /> </p>
@@ -7,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/adityadev" target="blank"><img src="https://img.shields.io/twitter/follow/adityadev?logo=twitter&style=for-the-badge" alt="adityadev" /></a> </p>
 
-- 🔭 I’m currently working on [Event Managment Project](https://github.com/ZendeAditya/Event-management-nextjs14)
+- 🔭 I’m currently working on [Event Management Project](https://github.com/ZendeAditya/Event-management-nextjs14)
 
 - 🌱 I’m currently learning **Nextjs & DevOps**
 
