@@ -3,7 +3,7 @@
 <h3 align="center">Architecting Tomorrow's Solutions Today 🌐 | Full Stack Sorcerer 🚀 | Crafting Code Magic from the Heart of India 🇮🇳</h3>
 
 
-- 🔭 I’m currently working on [Event Management Project](https://github.com/ZendeAditya/Event-management-nextjs14)
+- 🔭 I’m currently working on [Framer motion animations](https://framermotionanimations.netlify.app/)
 
 - 🌱 I’m currently learning **Nextjs & DevOps**
 
