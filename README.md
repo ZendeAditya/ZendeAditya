@@ -44,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zendeaditya&show_icons=true&locale=en" alt="zendeaditya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zendeaditya&" alt="zendeaditya" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zendeaditya&label=Profile%20views&color=0e75b6&style=flat" alt="zendeaditya" /> </p>
